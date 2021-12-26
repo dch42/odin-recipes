@@ -1,0 +1,26 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: whitesmoke;
+}
+body {
+    background-color: slategrey;
+}
+.txt-center {
+    text-align: center;
+}
+
+.title-bar {
+    background-color: black;
+    width: 77%;
+    margin: auto;
+    padding: 2em;
+    border-radius: 1em;
+}
+
+.recipe-link-list {
+    background-color: darkslategray;
+    padding: 2em;
+    width: 55%;
+    margin: auto;
+    border-radius: 1em;
+}
